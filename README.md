@@ -1,4 +1,4 @@
-# Lab 3 — Document Databases with MongoDB
+# Document Databases with MongoDB
 
 A data analysis lab using MongoDB aggregation pipelines to retrieve, transform, and analyze data across multiple document databases. Built as part of a Master's in Data Management program.
 
